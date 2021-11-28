@@ -1,10 +1,14 @@
 ## Modern Real Estate Application
 
-### Created using [Next.js](https://nextjs.org/) - SSR & SSG, [Chackra](https://chakra-ui.com/) - user interface, [Bayut API](https://rapidapi.com/apidojo/api/bayut) - real estate query API
+### Created using
+
+- [Next.js](https://nextjs.org/) - SSR & SSG
+- [Chackra](https://chakra-ui.com/) - user interface
+- [Bayut API](https://rapidapi.com/apidojo/api/bayut) - real estate query API
 
 ---
 
-#### See how the application works: [site](https://asp-react-nextjs-landingpage.web.app/)
+#### See how the application works: [site](https://next-realestate-nine.vercel.app/)
 
 ---
 
