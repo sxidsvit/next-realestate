@@ -4,7 +4,7 @@
 
 ---
 
-![](assets/images/tizer.jpg)
+![](/blob/main/assets/images/tizer.jpg)
 
 ---
 
