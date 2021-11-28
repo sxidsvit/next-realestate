@@ -4,10 +4,6 @@
 
 ---
 
-![](/blob/main/assets/images/tizer.jpg)
-
----
-
 #### See how the application works: [site](https://asp-react-nextjs-landingpage.web.app/)
 
 ---
