@@ -4,7 +4,7 @@
 
 ---
 
-![](./assets/images/tizer.jpg)
+![](/assets/images/tizer.jpg)
 
 ---
 
